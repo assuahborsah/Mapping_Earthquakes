@@ -29,6 +29,7 @@ The following steps would be followed for this analysis:
 Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add tectonic plate data using d3.json(), add the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.
 
 
+https://assuahborsah.github.io/Mapping_Earthquakes/
 
 ![image](https://user-images.githubusercontent.com/96086671/175818709-ad526b9e-0fd2-48ad-8e70-26ecfb1c7fd7.png)
 
