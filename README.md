@@ -29,7 +29,6 @@ The following steps would be followed for this analysis:
 Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add tectonic plate data using d3.json(), add the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.
 
 
-https://assuahborsah.github.io/Mapping_Earthquakes/
 
 ![image](https://user-images.githubusercontent.com/96086671/175818709-ad526b9e-0fd2-48ad-8e70-26ecfb1c7fd7.png)
 
@@ -63,3 +62,6 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
 
 
 Interactive maps were created using JavaScript and the D3 library to traverse and retrieve GeoJSON earthquake and tectonic plate data from the past 7 days, where the the magnitude of the earthquake is displayed on circles that varies in size and color according to its strength where details can be seen on a popup box when clicked. Also, Leaflet library was used to plot the data on a Mapbox map through an API request.
+
+
+https://assuahborsah.github.io/Mapping_Earthquakes/
