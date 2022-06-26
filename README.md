@@ -63,5 +63,3 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
 
 Interactive maps were created using JavaScript and the D3 library to traverse and retrieve GeoJSON earthquake and tectonic plate data from the past 7 days, where the the magnitude of the earthquake is displayed on circles that varies in size and color according to its strength where details can be seen on a popup box when clicked. Also, Leaflet library was used to plot the data on a Mapbox map through an API request.
 
-
-https://assuahborsah.github.io/Mapping_Earthquakes/
